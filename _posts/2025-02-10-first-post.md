@@ -11,5 +11,5 @@ pin: true
 
 ## My First Post
 
-This is my first post!
+Welcome to my blog! I meant to write this blog to share my notes, experience and reviews during my cyber security journey. Hope you will find some useful articles here!
 
